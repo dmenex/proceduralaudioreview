@@ -1,6 +1,4 @@
-<div align="center">
-  
-  # The State of the Art in Procedural Audio
+# The State of the Art in Procedural Audio
   
   [Dimitris Menexopoulos](https://linktr.ee/menexmusic)<sup>1*</sup>, [Pedro D. Pestana](https://www.cienciavitae.pt/portal/2714-8A7B-5CCA)<sup>2</sup>, and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/)<sup>1</sup>
   
