@@ -5,7 +5,7 @@
   [Dimitris Menexopoulos](https://linktr.ee/menexmusic)<sup>1*</sup>, [Pedro D. Pestana](https://www.cienciavitae.pt/portal/2714-8A7B-5CCA)<sup>2</sup>, and [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/)<sup>1</sup>
   
 <sup>1</sup> Centre for Digital Music, Queen Mary University of London<br>
-<sup>2</sup> 2Science and Technology Department, The Open University of Portugal (UAb) <br>
+<sup>2</sup> Science and Technology Department, The Open University of Portugal (UAb) <br>
 
   
   ## Abstract
